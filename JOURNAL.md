@@ -1,3 +1,10 @@
+---
+title: "Drum"
+author: "@lucas"
+description: "modular electronic drum set"
+created_at: "2025-05-15"
+---
+
 # MAY 19
 
 Searching for submission
