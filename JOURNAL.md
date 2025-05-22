@@ -17,5 +17,3 @@ Components:
 - Potentiometer 10kΩ linear
 - tact switch
 - Resistor 10kΩ
-
-About 10 USD
