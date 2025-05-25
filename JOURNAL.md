@@ -5,6 +5,11 @@ description: "modular electronic drum set"
 created_at: "2025-05-15"
 ---
 
+# May 25
+- Ordering more components
+
+Time spent: 30min
+
 # May 22
 
 - Ordering components
