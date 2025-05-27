@@ -5,6 +5,11 @@ description: "modular electronic drum set"
 created_at: "2025-05-15"
 ---
 
+# May 27
+- Testing arduino
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/193e0110fe779a136c3952153ad4cccbd20e7983_img_20250526_205351574_hdr.jpg)
+
 # May 25
 - Ordering more components
 
