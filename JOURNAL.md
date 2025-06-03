@@ -5,6 +5,12 @@ description: "modular electronic drum set"
 created_at: "2025-05-15"
 ---
 
+# June 03
+- cutting wires, grouping components
+- code
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9f5e3c1a8d8e74e1cedfef806d232b217f16a9ec_img_20250603_151105401.jpg)
+
 # May 27
 - Testing arduino
 
