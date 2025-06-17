@@ -6,7 +6,7 @@ created_at: "2025-05-15"
 ---
 
 # June 17
-[](https://hc-cdn.hel1.your-objectstorage.com/s/v3/47741a0bff283997ac8909321ed9ed4c9ffd2b19_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/47741a0bff283997ac8909321ed9ed4c9ffd2b19_image.png)
 
 Time spent: 30min
 
