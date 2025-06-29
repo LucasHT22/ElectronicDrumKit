@@ -5,6 +5,14 @@ description: "modular electronic drum set"
 created_at: "2025-05-15"
 ---
 
+# June 29
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7b23ad23f8d1b72462533411e7af5d9a75fd4d25_vid_20250629_160132286.mp4_2.mp4)
+
+Finally gotthe perfect combination: Hairless MIDI -> loopMIDI -> Virtual MIDI Piano Keyboard
+
+Time spent: 2 hours
+
 # June 17
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/47741a0bff283997ac8909321ed9ed4c9ffd2b19_image.png)
 
