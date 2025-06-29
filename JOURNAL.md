@@ -7,7 +7,9 @@ created_at: "2025-05-15"
 
 # June 29
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7b23ad23f8d1b72462533411e7af5d9a75fd4d25_vid_20250629_160132286.mp4_2.mp4)
+
+https://github.com/user-attachments/assets/ae90bd56-cc27-4c71-a510-db5c4ea78a29
+
 
 Finally gotthe perfect combination: Hairless MIDI -> loopMIDI -> Virtual MIDI Piano Keyboard
 
