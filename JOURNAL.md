@@ -5,6 +5,16 @@ description: "modular electronic drum set"
 created_at: "2025-05-15"
 ---
 
+# July 2 & July 4
+
+With my teacher, soldered all piezos, but some solders broke along my way back home
+
+7 piezos
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/49f0f4a7ae5eb50a7f4e89dd601f67c174987622_img_20250704_230209.jpg)
+
+Time spent: 3 hours
+
 # June 29
 
 
